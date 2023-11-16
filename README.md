@@ -46,7 +46,12 @@ Through this project, I learned the process of data extraction, data preprocessi
 이 프로잭트를 통해서 데이터 추출, 데이터 전처리, 모델 생성의 방법을 배웠습니다.
 
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Thank you </h2> <br> 
+
+
+
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Thank you😊 </h2>
+
+
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nostudynofood)](https://velog.io/@nostudynofood/NBAStats-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B6%94%EC%B6%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%98%88%EC%B8%A1%EA%B9%8C%EC%A7%80-1)
 
