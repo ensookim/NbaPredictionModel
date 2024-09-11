@@ -5,10 +5,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import MinMaxScaler
 
-# NBA 선수들의 통계 데이터 불러오기
+
 all_stats = pd.read_csv('nba_stats_2010_to_2023.csv')
 
-# 필요없는 열 삭제
+# 상관관계가 낮은 열 삭제
 all_stats.drop('FG%', axis=1, inplace=True)
 all_stats.drop('Pos', axis=1, inplace=True)
 all_stats.drop('Tm', axis=1, inplace=True)
